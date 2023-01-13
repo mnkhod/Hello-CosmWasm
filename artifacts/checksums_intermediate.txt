@@ -1,0 +1,1 @@
+e05a04993346c758e8bdcc7054b37ee5682342deec320b1b4f24231fb1f04bea  ./target/wasm32-unknown-unknown/release/hello_cosmwasm.wasm
